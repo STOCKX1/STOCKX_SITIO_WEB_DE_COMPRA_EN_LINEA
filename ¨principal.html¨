@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title>STOCKX </title>
+	</head>
+	<body text=¨#000000¨><font face=¨arial¨>
+<img src="captura.png" width="1900" height="40"/>
+<marquee><img src="11.jpg" width="150" height="100"/><img src="22.jpg" width="150" height="100"/><img src="33.png" width="150" height="100"/><img src="44.png" width="150" height="100"/><img src="55.jpg" width="150" height="100"/><img src="66.jpeg" width="150" height="100"/><img src="77.jpg"width="150" height="100"/><img src="40.jpg" width="150" height="100"/><img src="11.jpg" width="150" height="100"/><img src="22.jpg" width="150" height="100"/><img src="33.png" width="150" height="100"/><img src="44.png" width="150" height="100"/><img src="55.jpg" width="150" height="100"/><img src="66.jpeg" width="150" height="100"/><img src="77.jpg"width="150" height="100"/><img src="40.jpg" width="150" height="100"/></marquee>
+
+<img src="stock 1380 x 240.jpg" width="1350" height="240"/>
+<img src="inicio 100 x 240.jpg" width="100" height="240"/>
+<a href=¨servicio.html¨><img src="servicio 129 x 240.jpg " width="129" height="240"/></A>
+<a href=¨nosotros.html¨><img src="nosotros 120 x 240.jpg " width="120" height="240"/></a>
+<a href=¨contacto.html¨><img src="contacto 171 x 240.jpg " width="171" height="240"/></a>
+<img src="pro.png " width="1900" height="240"/>
+<center><h1><font color=¨#08fa00¨><p>HOLA, BIENVENIDOS A STOCKX, LA TIENDA MAS GRANDE DE TENIS EL LINEA.</p></center></font>
+
+<center><table  width=¨70%¨bg color=¨#f3f3f3¨>
+<tr>
+<td><img src="tapiz 2.jpg" width="400" height="700"/></td>
+<td><center><p><h1>StockX </p></center>
+<p><center><h1>es un mercado en línea para la compra y venta de sneakers, streetwear, relojes y bolsos de diseñador.</p> </center></h1>
+<h2>El sitio web actúa como un intermediario entre compradores y vendedores, haciendo que las transacciones del mercado de reventas sean seguras.<h2>
+
+<h2>StockX verifica todos los productos antes de que se envíen a los compradores, para que no tengan que preocuparse por los estafadores y los objetos piratas. StockX también proporciona a los compradores y vendedores datos muy interesantes como el valor del mercado actual, la cantidad de artículos vendidos y la pérdida o ganancia de la venta.</h2>
+
+<h2>La información se puede usar para garantizar que nunca se pague en exceso ni se venda de más. Para los coleccionistas de zapatillas, es la forma más conveniente y segura de comprar y vender sneakers
+<p>Además de la oficina de One Campus Martius, StockX tiene una instalación de autenticación en el vecindario de Corktown de Detroit. Antes de la reubicación del centro de autenticación en junio de 2018, la compañía tenía un equipo de 15 empleados que autenticaban miles de pares de zapatos diariamente. La instalación más grande de Corktown aumentó el número de autenticaciones. StockX abrió un segundo centro de autenticación en Tempe, Arizona, a fines de 2018, seguido de dos más en Moonachie, Nueva Jersey y West London. En 2019, la compañía abrió un quinto centro de autenticación en Eindhoven, Países Bajos. StockX mantiene un catálogo de todos los artículos falsos recibidos.</p>
+<h4><center><p>GRACIAS POR SU PREFERENCIA</p></center></h4>
+
+.</p></h2></td>
+<td><img src="tapiz 1.jpg" width="400" height="700"/></td>
+</tr>
+</table>
+
+<marquee><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif" width="150" height="100"/><img src="gg.gif"width="150" height="100"/><img src="gg.gif" width="150" height="100"/></marquee>
+</font>
+
+
+<video src="lo.mp4" autoplay muted loop width="640" height="480"></video>
+
+<center> <a href="http://google.com"> Google </a></center> <center> <a href="https://mx.youtube.com/?gl=MX&tab=r1&authuser=0"> Youtube </a></center>
+<a href=¨0no.html¨><img src="click.png" width="200" height="100"/></a>
+	</body>
+</html>
